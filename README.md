@@ -1,2 +1,2 @@
 # google-colab
-Google Colabで作成したファイルの保存用リポジトリ
+Google Colabで作成したファイルのメモ・保存用リポジトリ
